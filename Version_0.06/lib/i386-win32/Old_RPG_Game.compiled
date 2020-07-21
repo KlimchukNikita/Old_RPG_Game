@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\FPC\3.0.4\bin\i386-Win32\fpc.exe" Date="1262918680"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Klimc\OneDrive\Документы\Visual Studio Code\Project Old_RPG_Game\Version_0.05\lib\i386-win32&quot; &quot;-FuC:\Users\Klimc\OneDrive\Документы\Visual Studio Code\Project Old_RPG_Game\Version_0.05\&quot; &quot;-FUC:\Users\Klimc\OneDrive\Документы\Visual Studio Code\Project Old_RPG_Game\Version_0.05\lib\i386-win32\&quot; &quot;-FEC:\Users\Klimc\OneDrive\Документы\Visual Studio Code\Project Old_RPG_Game\Version_0.05\&quot; &quot;-oC:\Users\Klimc\OneDrive\Документы\Visual Studio Code\Project Old_RPG_Game\Version_0.05\Old_RPG_Game.exe&quot; Old_RPG_Game.pas"/>
+</CONFIG>
